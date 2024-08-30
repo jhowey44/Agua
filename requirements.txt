@@ -1,5 +1,0 @@
-streamlit
-matplotlib==3.7.1
-joblib
-pandas
-scikit-learn
