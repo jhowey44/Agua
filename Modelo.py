@@ -256,11 +256,6 @@ st.write(m._repr_html_(), unsafe_allow_html=True)
 # In[102]:
 
 
-streamlit run C:\Users\jslat\anaconda3\Lib\site-packages\ipykernel_launcher.py 
-
-
 # In[202]:
 
-
-model.feature_names_in_
 
